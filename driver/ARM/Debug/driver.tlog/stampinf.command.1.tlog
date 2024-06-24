@@ -1,0 +1,2 @@
+^C:\USERS\CALLIE\DESKTOP\APEX\DRIVER\DRIVER.INF
+-d "*" -a "ARM" -v "*" -k "1.15"  -x -f ARM\Debug\driver.inf -d "*" -a "ARM" -v "*" -k "1.15"  -x C:\USERS\CALLIE\DESKTOP\APEX\DRIVER\DRIVER.INF
