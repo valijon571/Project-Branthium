@@ -1,0 +1,88 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+*.db
+*.db-shm
+*.db-wal
+*.db-wal
+*.opendb
+*.ipch
+*.log
+*.lastbuildstate
+*.tlog
+*.pdb
+.vs/Project Branthium/v16/.suo
+ARM/Debug/driver.inf
+driver/ARM/Debug/driver.inf
+driver/ARM/Debug/driver.log
+driver/ARM/Debug/driver.tlog/driver.lastbuildstate
+driver/ARM/Debug/driver.tlog/stampinf.command.1.tlog
+driver/ARM/Debug/driver.tlog/stampinf.read.1.tlog
+driver/ARM/Debug/driver.tlog/stampinf.write.1.tlog
+driver/ARM/Debug/vc142.pdb
+driver/ARM/Debug/driver.inf
+driver/ARM/Debug/driver.log
+driver/ARM/Debug/driver.tlog/driver.lastbuildstate
+driver/ARM/Debug/driver.tlog/stampinf.command.1.tlog
+driver/ARM/Debug/driver.tlog/stampinf.read.1.tlog
+driver/ARM/Debug/driver.tlog/stampinf.write.1.tlog
+driver/ARM/Debug/vc142.pdb
+build/intermediate/driver/driver.inf
+*.cer
+*.sys
+*.recipe
+build/driver/driver.inf
+build/driver.inf
+build/intermediate/cheat/usermode.iobj
+*.ipdb
+*.inf
+*.log
+*.pdb
+driver/ARM/Debug/vc142.pdb
+*.tlog
+*.inf
+*.log
+*.log
+driver/ARM/Debug/driver.log
+*.lastbuildstate
+driver/ARM/Debug/driver.tlog/driver.lastbuildstate
+*.tlog
+driver/ARM/Debug/driver.tlog/stampinf.command.1.tlog
+*.pdb
+driver/ARM/Debug/vc142.pdb
+driver/ARM/Debug/driver.inf
+driver/ARM/Debug/driver.log
+driver/ARM/Debug/driver.tlog/driver.lastbuildstate
+driver/ARM/Debug/driver.tlog/stampinf.command.1.tlog
+driver/ARM/Debug/driver.tlog/stampinf.read.1.tlog
+driver/ARM/Debug/driver.tlog/stampinf.write.1.tlog
+driver/ARM/Debug/vc142.pdb
